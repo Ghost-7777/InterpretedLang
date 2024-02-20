@@ -1,0 +1,11 @@
+pull
+tournament
+check feet 7
+bowl
+check feet 1
+points home
+tournament
+check feet 13
+spare
+bowl
+check feet 8

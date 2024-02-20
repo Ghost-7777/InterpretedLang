@@ -1,0 +1,167 @@
+bowl
+pin
+pin
+pin
+pin
+pin
+pin
+pin
+pin
+pin
+pin
+pin
+pin
+pin
+pin
+pin
+pin
+pin
+pin
+pin
+pin
+pin
+pin
+pin
+pin
+pin
+pin
+pin
+pin
+pin
+pin
+pin
+pin 
+# [32]
+tournament
+pin
+pin
+pin
+pin
+pin
+pin
+pin
+pin
+pin 
+pin
+pin
+pin
+#[32, 44]
+tournament
+pin
+pin
+pin
+pin
+pin
+pin
+pin 
+pin
+pin
+pin
+pin
+pin
+pin
+pin
+pin
+pin
+pin 
+pin
+pin
+pin
+pin
+pin
+pin
+pin
+pin
+pin
+pin 
+pin
+tournament
+spare
+# [32, 44, 72]
+pin
+pin
+pin
+pin
+pin
+pin
+pin
+pin
+pin 
+pin
+pin
+pin
+pin
+pin
+pin
+pin
+pin
+pin
+pin 
+pin
+pin
+pin
+pin
+pin
+pin
+pin
+pin
+pin
+# [32, 44, 100]
+tournament
+pin
+tournament
+spare
+# [32, 44, 100, 101]
+pin
+pin
+pin
+pin
+pin
+pin
+pin
+tournament
+spare
+tournament
+spare
+# [32, 44, 100, 108]
+tournament
+pin
+pin
+pin
+tournament
+spare
+# [32, 44, 100, 108, 111]
+points travel
+points travel
+spare
+tournament
+spare
+points home
+# [32, 100, 108, 111]
+tournament
+pin
+pin
+pin
+pin
+pin
+pin
+pin
+pin
+spare
+# [32, 100, 108, 111]
+tournament
+spare
+# [32, 100, 108, 111]
+pin
+pin
+pin
+spare
+# [32, 100, 108]
+spare
+spare
+# [32]
+points travel
+pin
+spare
+
+# 72 101 108 108 111 44 32 119 111 114 108 100 33
